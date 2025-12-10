@@ -1,9 +1,12 @@
- 
-Date: [[2025-12-07]]
-Tags: [[programming]] [[dsa]]
-Status: [[in-progress]]
+---
+title: Asymptotic Notation
+date: 2025-12-07 00:00:00 +0000
+categories: [Programming, DSA]
+tags: [algorithms]     # TAG names should always be lowercase
+---
 
-### Notes: 
+
+### Notes:
 
 ##### Big O:
 - Gives the tight upper bound of the given function
@@ -14,7 +17,7 @@ Status: [[in-progress]]
 
 ##### Guidelines for analysis:
 1. ***Loops***:
-	- for(i=0; i<=n; i++) //executes n times 
+	- for(i=0; i<=n; i++) //executes n times
 	  m=m+2               //constant time
 	- total time = c*n = cn = O(n)
 2. ***Nested loop***:
@@ -50,5 +53,5 @@ Status: [[in-progress]]
   ![[Pasted image 20251207153747.png]]
 - The time complexity is given as:
   ![[Pasted image 20251207153843.png]]
-- 
+-
 ### References:
