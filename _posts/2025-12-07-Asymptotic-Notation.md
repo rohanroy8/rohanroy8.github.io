@@ -50,6 +50,7 @@ tags: [algorithms]     # TAG names should always be lowercase
 ##### Master Theorem:
 - Used to find the time complexity of divide and conquer algorithms or the algorithms where we have a recurrence relation given.
 - If the recurrence is in the form:
+
 ![Form](/assets/img/2025-12-07-Asymptotic-Notation/2.png)
 
 - The time complexity is given as:
