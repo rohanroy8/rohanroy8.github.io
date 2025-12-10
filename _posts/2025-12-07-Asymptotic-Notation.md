@@ -45,13 +45,16 @@ tags: [algorithms]     # TAG names should always be lowercase
 	- Similarly if i=i/2 then it would still be log(n)\
 
 ##### Some common formulae:
-![[Pasted image 20251207153544.png]]
+![Common Formulae](/assets/img/2025-12-07-Asymptotic-Notation/1.png)
 
 ##### Master Theorem:
 - Used to find the time complexity of divide and conquer algorithms or the algorithms where we have a recurrence relation given.
 - If the recurrence is in the form:
-  ![[Pasted image 20251207153747.png]]
+![Form](/assets/img/2025-12-07-Asymptotic-Notation/2.png)
+
 - The time complexity is given as:
-  ![[Pasted image 20251207153843.png]]
+![Complexity](/assets/img/2025-12-07-Asymptotic-Notation/3.png)
+
+
 -
 ### References:
