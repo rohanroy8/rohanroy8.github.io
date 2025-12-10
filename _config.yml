@@ -109,8 +109,8 @@ toc: true
 
 comments:
   # Global switch for the post-comment system. Keeping it empty means disabled.
-  provider: gisqus # [disqus | utterances | giscus]
-  # The provider options are as follows:
+  provider: giscus # [disqus | utterances | giscus]
+  # The providergisqusgisqus options are as follows:
   disqus:
     shortname: #nightswamp.disqus.com
  # fill with the Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
